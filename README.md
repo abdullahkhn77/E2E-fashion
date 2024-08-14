@@ -1,5 +1,5 @@
 
-# ShopME: An E2E fashion recommendation System
+# E2E fashion recommendation System
 
 Recommender systems have grown to be an essential part of all
 large Internet retailers, driving up to 35% of Amazon sales or over 80% of the content watched on Netflix. In general good recommender systems can help increase companies sales by majority.
