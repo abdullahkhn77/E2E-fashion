@@ -9,10 +9,6 @@ large Internet retailers, driving up to 35% of Amazon sales or over 80% of the c
 This project will help you to understand standard ML cycle and will teach you how to create an E2E ML system.
 
 
-## Demo 🚀
-
-![](https://raw.githubusercontent.com/Atharva-Phatak/shopme/main/images/streamlit-app.gif)
-
 
 ## Procedure
 
